@@ -33,4 +33,5 @@ Gnomon comprueba `latest.json` de este repositorio (como mucho una vez cada 24 h
 
 | Versión / Version | Fecha / Date | SHA-256 |
 |---|---|---|
+| [1.0.0](https://github.com/Lumen-Ash/Gnomon-releases/releases/tag/v1.0.0) | 2026-11-20 | `1996933134c1bb6498627951e4de1e971f5452c827e7c4f3f68d66858e710a4b` |
 <!-- SHA256-ROWS -->
