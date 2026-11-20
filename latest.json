@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "date": "2026-11-20T04:30:25.2610765+00:00",
+  "url": "https://github.com/Lumen-Ash/Gnomon-releases/releases/download/v1.0.0/Gnomon_Setup_1.0.0.exe",
+  "size": 55619210,
+  "sha256": "1996933134c1bb6498627951e4de1e971f5452c827e7c4f3f68d66858e710a4b",
+  "notes": {
+    "es": "Primera versión estable de Gnomon: conversor de medidas y calculadora de obra para arquitectura e ingeniería civil, con conversión escrita, pies-pulgadas, escala de planos, comandos de obra, medidas con unidades, proyectos con presupuesto y PDF, y tablas de referencia.\nIncluye modo compacto, bandeja, atajo global, copia de seguridad de tus datos (Ajustes › Copia de seguridad) y actualizaciones en línea verificadas.",
+    "en": "First stable release of Gnomon: a measurement converter and job-site calculator for architecture and civil engineering, with typed conversions, feet-inches, plan scales, job-site commands, measures with units, projects with budget and PDF reports, and reference tables.\nIt includes compact mode, tray icon, global shortcut, backup of your data (Settings › Backup) and verified online updates."
+  }
+}
